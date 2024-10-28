@@ -1,1 +1,1 @@
-# -Tomato-Disease-Prediction
+# Tomato-Disease-Prediction
