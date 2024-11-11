@@ -106,7 +106,7 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ## Acknowledgements
-- The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village) or specify the actual dataset provider.
+- The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
 - Special thanks to the open-source community for the libraries and resources that made this project possible.
 
 Enjoy using the Tomato Disease Prediction tool and feel free to contribute to make it even better!
