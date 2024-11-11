@@ -81,7 +81,7 @@ data/
    ```bash
    python train.py --epochs 50 --batch_size 32
 - Adjust the `--epochs` and `--batch_size` parameters as per your system capabilities and requirements.
-3. The model and training logs will be saved in the 'models/' directory.
+3. The model and training logs will be saved in the `models/` directory.
 ## Model Evaluation
 To evaluate the trained model's performance on the test dataset:
 ```bash
