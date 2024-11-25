@@ -79,7 +79,7 @@ st.markdown(set_custom_style(), unsafe_allow_html=True)
 st.markdown('<div class="main-container">', unsafe_allow_html=True)
 st.markdown(
     '<div class="header">'
-    '<h1 class="main-title">🌿 Tomato Disease Classification 🌿</h1>'
+    '<h1 class="main-title">Tomato Disease Classification</h1>'
     '<p class="sub-title">Upload an image of a tomato leaf to predict if it has any disease.</p>'
     '</div>',
     unsafe_allow_html=True
