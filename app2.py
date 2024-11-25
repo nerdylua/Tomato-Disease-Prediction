@@ -41,7 +41,7 @@ def set_custom_style():
         .sub-title {
             font-size: 1.2rem;
             color: #eeeeee;
-            margin: 0; /* Removed spacing */
+            margin: 0 0 10px 0; /* Added spacing after subtitle */
         }
 
         /* Guidelines box styling */
@@ -81,6 +81,7 @@ st.markdown(
     '<div class="header">'
     '<h1 class="main-title">Tomato Disease Classification</h1>'
     '<p class="sub-title">Upload an image of a tomato leaf to predict if it has any disease.</p>'
+    '<br>'  # Add a line break for spacing
     '</div>',
     unsafe_allow_html=True
 )
