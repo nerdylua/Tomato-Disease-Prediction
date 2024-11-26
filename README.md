@@ -36,7 +36,7 @@ Tomato plants are prone to various diseases that can significantly affect crop q
 ## Dataset
 The dataset used in this project consists of labeled images of tomato leaves affected by various diseases as well as healthy leaves. The images are preprocessed and augmented to improve the model's performance and generalization.
 
-Dataset source: [Kaggle: Tomato Disease Dataset](https://www.kaggle.com/datasets/arjuntejaswi/plant-village) 
+Dataset source: [Kaggle: Tomato Disease Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) 
 
 **Classes:**
 1. Healthy
@@ -106,7 +106,7 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ## Acknowledgements
-- The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
+- The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset).
 - Special thanks to the open-source community for the libraries and resources that made this project possible.
 
 Enjoy using the Tomato Disease Prediction tool and feel free to contribute to make it even better!
