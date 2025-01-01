@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sasya</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="usermail">Guest</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Sasya</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_remedies">Remedies</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="welcomeText">Welcome to Sasya</string>
+    <string name="Description">Your plant health companion</string>
+    <string name="scanviewtext">Heal your Crop!</string>
+    <string name="ScanText">Take a picture</string>
+    <string name="gallerybtn">Gallery</string>
+    <string name="Camerabtn">camera</string>
+    <string name="detectionresult">Detection Result:</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="client_id">750404779092-20k520hu78lfi5t39o9dvu71fnp0b700.apps.googleusercontent.com</string>
+    <string name="back_button">Back</string>
+</resources>

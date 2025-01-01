@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "750404779092",
+    "project_id": "sasyav-8867",
+    "storage_bucket": "sasyav-8867.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750404779092:android:223eff1a2401c9ee2881c1",
+        "android_client_info": {
+          "package_name": "com.example.sasya2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750404779092-20k520hu78lfi5t39o9dvu71fnp0b700.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08zgS9BXfzpYgBq_rgWSx09Jn1WJRfRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750404779092-20k520hu78lfi5t39o9dvu71fnp0b700.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750404779092:android:0b7402a5ddb5d8dc2881c1",
+        "android_client_info": {
+          "package_name": "com.example.sasyavi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750404779092-20k520hu78lfi5t39o9dvu71fnp0b700.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08zgS9BXfzpYgBq_rgWSx09Jn1WJRfRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750404779092-20k520hu78lfi5t39o9dvu71fnp0b700.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
