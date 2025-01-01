@@ -11,6 +11,7 @@ This project aims to accurately predict and identify various diseases affecting 
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Model Evaluation](#model-evaluation)
+- [Android App](#android-application)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
 - [License](#license)
@@ -88,6 +89,22 @@ To evaluate the trained model's performance on the test dataset:
 python evaluate.py --model_path models/trained_model.h5
 ```
 This script will display metrics such as accuracy and precision.
+
+---
+
+## Android Application
+In addition to the Python-based disease prediction model, this project also includes an Android app for real-time disease detection using the trained model. The Android app is developed in Kotlin and can be used to upload images of plant leaves for classification.
+
+### Features
+- **Real-time Disease Detection**: Upload images directly from your mobile device and get predictions.
+- **Cross-plant Support**: The model supports diseases for a variety of plants, not just tomatoes.
+- **User-friendly Interface**: Simple and intuitive interface for easy plant disease identification.
+- 
+### Additional Configuration (Optional)
+If you want to modify the model or expand it to include more plant types or diseases:
+
+1. Update the Model: The Android app uses a TensorFlow Lite model. You can replace the existing model with a custom-trained .tflite model by placing it in the assets/ directory and updating the relevant code to load the new model.
+1. Modify the Plant Types: To support other plant types, update the model, dataset, and Android code accordingly to handle the new classifications.
 
 ## Future Work
 - **Additional Classes**: Expand the model to include more diseases and support other plant types.
