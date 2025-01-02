@@ -99,7 +99,7 @@ In addition to the Python-based disease prediction model, this project also incl
 - **Real-time Disease Detection**: Upload images directly from your mobile device and get predictions.
 - **Cross-plant Support**: The model supports diseases for a variety of plants, not just tomatoes.
 - **User-friendly Interface**: Simple and intuitive interface for easy plant disease identification.
-- 
+
 ### Additional Configuration (Optional)
 If you want to modify the model or expand it to include more plant types or diseases:
 
