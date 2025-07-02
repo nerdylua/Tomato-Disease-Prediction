@@ -47,7 +47,7 @@ Dataset source: [Kaggle: Tomato Disease Dataset](https://www.kaggle.com/datasets
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nerdylelouch/Tomato-Disease-Prediction.git
+   git clone https://github.com/nerdylua/Tomato-Disease-Prediction.git
    cd Tomato-Disease-Prediction
 2. Install the required packages:
    ```bash
